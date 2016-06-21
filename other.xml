@@ -69,11 +69,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://sws.ethz.ch/svn/" />
         <option value="https://subversion.assembla.com/svn/thekeeper/" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://sws.ethz.ch/svn/" />
         <option value="https://subversion.assembla.com/svn/thekeeper/" />
       </list>
     </option>
